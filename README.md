@@ -1,5 +1,7 @@
 ## GitScope
 
+<img src="https://img.shields.io/badge/GitHub-User_Finder-00b7ff?style=for-the-badge&logo=github" />
+
 🔍 **GitScope** is a lightweight and responsive web application that allows users to search and explore **GitHub profiles** in real time.  
 It fetches public user data using the GitHub REST API and presents it in a clean, intuitive interface.
 
