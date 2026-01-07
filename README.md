@@ -52,7 +52,7 @@ It is designed for developers, recruiters, and learners who want a fast way to i
 ## 📁 Project Structure
 
 ```text
-GitScope/
+gitscope/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -63,10 +63,10 @@ GitScope/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Adarshtechy/GitScope.git
+git clone https://github.com/Adarshtechy/gitscope.git
 ```
 2. Open the project folder:
 ```bash
-cd GitScope
+cd gitscope
 ```
 3. Open index.html in your browser.
